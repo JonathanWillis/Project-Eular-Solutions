@@ -1,0 +1,8 @@
+C:\Users\Jonathan\Documents\GitHub\Project-Eular-Solutions\src\test\Problem.Tests\obj\Debug\Problem.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\GitHub\Project-Eular-Solutions\src\test\Problem.Tests\bin\Debug\Problem.Tests.dll
+C:\Users\Jonathan\Documents\GitHub\Project-Eular-Solutions\src\test\Problem.Tests\bin\Debug\Problem.Tests.pdb
+C:\Users\Jonathan\Documents\GitHub\Project-Eular-Solutions\src\test\Problem.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Jonathan\Documents\GitHub\Project-Eular-Solutions\src\test\Problem.Tests\obj\Debug\Problem.Tests.dll
+C:\Users\Jonathan\Documents\GitHub\Project-Eular-Solutions\src\test\Problem.Tests\obj\Debug\Problem.Tests.pdb
+C:\Users\Jonathan\Documents\GitHub\Project-Eular-Solutions\src\test\Problem.Tests\bin\Debug\Problem.dll
+C:\Users\Jonathan\Documents\GitHub\Project-Eular-Solutions\src\test\Problem.Tests\bin\Debug\Problem.pdb

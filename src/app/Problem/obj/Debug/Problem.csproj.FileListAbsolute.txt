@@ -1,0 +1,4 @@
+C:\Users\Jonathan\Documents\GitHub\Project-Eular-Solutions\src\app\Problem\bin\Debug\Problem.dll
+C:\Users\Jonathan\Documents\GitHub\Project-Eular-Solutions\src\app\Problem\bin\Debug\Problem.pdb
+C:\Users\Jonathan\Documents\GitHub\Project-Eular-Solutions\src\app\Problem\obj\Debug\Problem.dll
+C:\Users\Jonathan\Documents\GitHub\Project-Eular-Solutions\src\app\Problem\obj\Debug\Problem.pdb
